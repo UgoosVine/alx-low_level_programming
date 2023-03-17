@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
- * main - the program runs a new line using puts fucntion
- "
+ * main - the program prints a new line using puts fucntion
  * Return: 0, (Great)
  */
 
