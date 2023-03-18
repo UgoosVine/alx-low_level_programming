@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
-#include <stdio.>
+#include <stdio.h>
 /**
  * main - prints the last digit of a randomly generated number
  *
@@ -22,7 +22,7 @@ int main(void)
 	printf("Last digit of %d is %d", n, x);
 	if (n > 5)
 	{
-		printf("and is greater than 5");
+	ii	printf("and is greater than 5");
 	}
 	if (x == 0)
 	{
