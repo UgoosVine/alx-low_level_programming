@@ -4,7 +4,7 @@
  * main - Write a program that prints all possible
  * combinations of two two-digit numbers.
  *
- * Reurn: Always return 0.
+ * Return: Always return 0.
  *
  */
 
