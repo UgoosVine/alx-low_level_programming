@@ -5,16 +5,16 @@
  * digit of a number
  *
  * @x: parameter to be cheked
- 
+ *
  * Return: returns y.
  */
 
-int print_last_digit(int i)
+int print_last_digit(int x)
 {
 	int k;
 
-	k = i % 10;
-	if (i < 0)
+	k = x % 10;
+	if (x < 0)
 	{
 		k = -k;
 	}
