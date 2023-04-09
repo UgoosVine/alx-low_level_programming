@@ -16,10 +16,10 @@ int main(int argc, char *argv[])
 	int cns = 0;
 
 	if (argc != 2)
-        {
-                printf("Error\n");
-                return (1);
-        }
+	{
+		printf("Error\n");
+		return (1);
+	}
 
 	cn = atoi(argv[1]);
 
